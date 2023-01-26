@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row align-items-center justify-content-center">
             <div class="col-md-6 col-lg-4 responsive-footercols-bottom">
-                <img src="images/website-logo.png" alt="">
+                <img src="website-logo.png" alt="">
                 <p class="mb-0">PT Dwidasa Samsara Indonesia</p>
                 <p class="mb-0">Ruko Jalur Sutera 29A No. 53 <br class="d-none-d-md-block">
     Alam Sutera Serpong, Tangerang 15323
@@ -18,24 +18,24 @@
             <div class="col-md-8 col-lg-5 responsive-footercols-bottom">
                 <div class="row pb-3">
                     <div class="col-md-4 col-4">
-                    <img src="images/silverlight-logo.png" alt="">
+                    <img src="silverlight-logo.png" alt="">
                     </div>
                     <div class="col-md-4 col-4">
-                    <img src="images/mnf-logo.png" alt="">
+                    <img src="mnf-logo.png" alt="">
                     </div>
                     <div class="col-md-4 col-4">
-                    <img src="images/java-logo.png" alt="">
+                    <img src="java-logo.png" alt="">
                     </div>
                 </div>
                 <div class="row">
                 <div class="col-md-4 col-3">
-                    <img src="images/ios-logo.png" alt="">
+                    <img src="ios-logo.png" alt="">
                     </div>
                     <div class="col-md-4 col-4">
-                    <img src="images/android-logo.png" alt="">
+                    <img src="android-logo.png" alt="">
                     </div>
                     <div class="col-md-4 col-4">
-                    <img src="images/blackberry-logo.png" alt="">
+                    <img src="blackberry-logo.png" alt="">
                     </div>
                 </div>
             </div>
