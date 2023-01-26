@@ -2,7 +2,7 @@
 $title = "Hetero Website";
 $metadesc = "";
 $keywords = "";
-include 'includes/header.php';?>
+include 'header.php';?>
 <section class="hero-section">
     <div class="container">
         <div class="row column-reverse">
@@ -17,7 +17,7 @@ include 'includes/header.php';?>
         <div class="col-md-6" data-aos="fade-down"
      data-aos-easing="linear"
      data-aos-duration="1500">
-        <img src="images/homepage-hero-image.png" alt="">
+        <img src="homepage-hero-image.png" alt="">
         </div>
         </div>
     </div>
@@ -26,7 +26,7 @@ include 'includes/header.php';?>
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-12 col-lg-6">
-              <img src="images/dsi-image1.png" width="100%" alt="">
+              <img src="dsi-image1.png" width="100%" alt="">
             </div>
             <div class="col-md-12 col-lg-6">
             <h2 class="pb-4">Welcome to <span class="spanred-color">Dwidasa Samsara <br class="d-none d-lg-block">
@@ -43,20 +43,20 @@ include 'includes/header.php';?>
         <h2 class="text-center pb-4 fw-bold">Product and Service</h2>
         <div class="row justify-content-center">
             <div class="col-md-6 col-lg-4" data-aos="fade-right">
-                <img src="images/product-image1.png" alt="">
+                <img src="product-image1.png" alt="">
                 <h3 class="span-redcolor pt-3 pb-3">Our Product</h3>
                 <p>Our product is made on the base of our <br class="d-none d-md-block"> team’s careful research and analyses, <br class="d-none d-md-block"> ranging from internet based <br class="d-none d-md-block"> application.</p>
                 <a href="" class="text-decoration-none"><button class="readmore-btn">Read More</button></a>
             </div>
             <div class="col-md-6 col-lg-4">
-                <img src="images/serviceverified-logo.png" alt="">
+                <img src="serviceverified-logo.png" alt="">
                 <h3 class="span-redcolor pt-3 pb-3">Our Service</h3>
                 <p>DSI’s shared service solutions focus on <br class="d-none d-md-block"> the front-end based software <br class="d-none d-md-block"> development, designed specifically for <br class="d-none d-md-block"> the banking and financial sectors.
 </p>
                 <a href="" class="text-decoration-none"><button class="readmore-btn">Read More</button></a>
             </div>
             <div class="col-md-6 col-lg-4" data-aos="fade-left">
-            <img src="images/technology-image1.png" alt="">
+            <img src="technology-image1.png" alt="">
             <h3 class="span-redcolor pt-3 pb-3">Our Technology</h3>
                 <p>First JAVA, runs on more than 850 <br class="d-none d-md-block"> million personal computers worldwide, <br class="d-none d-md-block"> and on billions of devices worldwide, <br class="d-none d-md-block"> including mobile and TV devices.</p>
                 <a href="" class="text-decoration-none"><button class="readmore-btn">Read More</button></a>
@@ -68,4 +68,4 @@ include 'includes/header.php';?>
 $title = "Hetero Website";
 $metadesc = "";
 $keywords = "";
-include 'includes/footer.php';?>
+include 'footer.php';?>
