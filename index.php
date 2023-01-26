@@ -1,8 +1,4 @@
-<?php
-$title = "Hetero Website";
-$metadesc = "";
-$keywords = "";
-include 'header.php';?>
+
 <section class="hero-section">
     <div class="container">
         <div class="row column-reverse">
@@ -64,8 +60,4 @@ include 'header.php';?>
         </div>
     </div>
 </section>
-<?php
-$title = "Hetero Website";
-$metadesc = "";
-$keywords = "";
-include 'footer.php';?>
+
